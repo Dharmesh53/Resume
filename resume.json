@@ -1,0 +1,83 @@
+{
+    "basics": {
+        "name": "Dharmesh Kumar",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kuec2030@iiitkota.ac.in",
+        "phone": "+918307456753",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in ECE branch.",
+        "location": {
+            "address": "Narnaul",
+            "postalCode": "123001",
+            "city": "Narnaul",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "____",
+                "username": "_____",
+                "url": "____"
+            },
+            {
+                "network": "Github",
+                "username": "Dharmesh53",
+                "url": "https://www.github.com/Dharmesh53"
+            },
+            {
+                "network": "linkedin",
+                "username": "DHARMESH KUMAR",
+                "url": "https://www.linkedin.com/in/dharmesh-kumar-a71193245/"
+            },
+           {
+                "network": "Instagram",
+                "username": "Dharmeshkmr",
+                "url": "https://instagram.com/Dharmeshkmr"
+            }
+        ]
+    },
+ 
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "courses": [
+                "Electronics and Communication Technology"
+            ]
+        }
+    ],
+   
+    "skills": [
+        {
+            "name": "Graphic Designing",
+            "level": "Medium",
+            "keywords": [
+                "Premeire pro",
+                "Photoshop"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gaming",
+            "keywords": [
+                "Gamer"
+            ]
+        },
+        {
+            "name": "Graphic Designer",
+            "keywords": [
+                "Photoshop",
+                "Premeire pro"
+            ]
+        }
+    ]
+}
